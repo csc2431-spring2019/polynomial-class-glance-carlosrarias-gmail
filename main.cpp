@@ -28,6 +28,7 @@ int main(int argc, char* argv[]){
 	cout << endl << endl;
 	cout << p.Minus().ToString() << endl;
 
+	cout << "Just a small change!" << endl;
 
 	return 0;
 }
